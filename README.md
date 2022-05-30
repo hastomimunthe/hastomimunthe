@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hastomimunthe
-- 👀 I’m interested in Aviation
+- 👀 I’m interested in Aviation and Code
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hastomi.riduan10@gmail.com

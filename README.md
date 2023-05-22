@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hastomimunthe
-- 👀 I’m iOS development enthusiast
+- 👀 I’m technology enthusiast
 - 🌱 I’m currently as a learner at Apple Developer Academy @ Infinite Learning - Batam
 - 📫 How to reach me hastomi.riduan10@gmail.com
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hastomimunthe
 - 👀 I’m technology enthusiast
-- 🌱 I’m currently as a learner at Apple Developer Academy @ Infinite Learning - Batam
+- 🌱 I’m currently as a software engineer
 - 📫 How to reach me hastomi.riduan10@gmail.com
 
 <!---
